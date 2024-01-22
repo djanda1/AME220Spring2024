@@ -1,1 +1,3 @@
 # AME220Spring2024
+# David Janda
+# 1225300869
