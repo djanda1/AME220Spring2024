@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(225, 75, 25);
+    font: arial;
+    font-size: medium;
+}
+#contact{
+    text-align: center;
+    color: black;
+}
+.links {
+    color: white;
+}
+table, th, td {
+    margin-left: 40px;
+    border:  1px solid maroon;
+}
+th {
+    color: maroon;
+}
+h2 {
+    color: maroon;
+}
+.references, .experience {
+    background-color: mistyrose ;
+}
+h1 {
+    color: white;
+}
+.center {
+    text-align: center;
+}
+.info {
+    background-color: white;
+    margin-left: 20px;
+}
+.info2 {
+    background-color: mistyrose;
+}
+#image {
+    margin-left: 42%;
+    border: 5px solid white;
+}
+#objective {
+    margin-left: 40px;
+}
